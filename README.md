@@ -1,3 +1,16 @@
+# Домашнее задание "Система мониторинга Zabbix. Часть 2"
+# Задание 1 
+![image](https://github.com/user-attachments/assets/eaa637a3-71d7-4f31-b8da-e00af68904e8)
+- CPU system.cpu.util[,user]
+- RAM vm.memory.size[pused]
+# Задание 2 и # Задание 3 
+![image](https://github.com/user-attachments/assets/c2266614-3a9f-499f-b1b8-852c19b6d718)
+![image](https://github.com/user-attachments/assets/5d127028-556b-476b-a504-2c58c3546002)
+![image](https://github.com/user-attachments/assets/7fdfdcdc-a0a8-45cc-8ba5-a959dbc2031a)
+
+# Задание 4 
+![image](https://github.com/user-attachments/assets/e3a57b46-8d6a-4937-b467-8993ba836851)
+
 # Домашнее задание к занятию «Система мониторинга Zabbix»
 # Задание 1
 ![image](https://github.com/user-attachments/assets/1977325c-43be-4178-9efe-9b513da4a90f)
