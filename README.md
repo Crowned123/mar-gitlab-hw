@@ -1,7 +1,7 @@
 # Zabbix 1
 # Задание 1
 ![image](https://github.com/user-attachments/assets/1977325c-43be-4178-9efe-9b513da4a90f)
-wget https://repo.zabbix.com/zabbix/6.4/ubuntu-arm64/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
+[ wget https://repo.zabbix.com/zabbix/6.4/ubuntu-arm64/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
 dpkg -i zabbix-release_6.4-1+ubuntu22.04_all.deb
 apt update
 apt install zabbix-server-pgsql zabbix-frontend-php php8.1-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
@@ -13,7 +13,7 @@ DBPassword=password
 systemctl restart zabbix-server zabbix-agent apache2
 systemctl enable zabbix-server zabbix-agent apache2
 git commit -m "Z1"
-git push origin
+git push origin  ]
 
 # Задание 2
 
