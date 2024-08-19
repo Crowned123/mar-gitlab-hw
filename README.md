@@ -16,6 +16,14 @@
 - git push origin  
 
 # Задание 2
+![image](https://github.com/user-attachments/assets/3357cfcc-6901-4554-ab6f-83cbbbeaf843)
+![image](https://github.com/user-attachments/assets/46bd895f-a44f-45c4-b461-44956e101cfc)
+![image](https://github.com/user-attachments/assets/2c0670f0-67eb-432f-849c-d3aa476ff6e2)
+![image](https://github.com/user-attachments/assets/d2835b6f-5201-4d64-b49e-1a452a1d7012)
+- git commit -m "Z2"
+- git push origin
+
+
 
 
 
