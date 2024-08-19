@@ -1,4 +1,4 @@
-# Zabbix 1
+# Домашнее задание к занятию «Система мониторинга Zabbix»
 # Задание 1
 ![image](https://github.com/user-attachments/assets/1977325c-43be-4178-9efe-9b513da4a90f)
 - wget https://repo.zabbix.com/zabbix/6.4/ubuntu-arm64/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
